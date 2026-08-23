@@ -1,0 +1,17 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-08-23T19:00:39.343628+00:00",
+  "slug": "sikxx-play-link",
+  "type": "shop",
+  "package": "sikxx.toys.sikxxplaylink",
+  "prefix": "TNQRS",
+  "app_name": "Sikxx Play Link",
+  "task_gid": "1217484336586855",
+  "task_name": "GB GW4 C1542",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1213586227413017/task/1217484336586855",
+  "domain": "https://sikxx.surf",
+  "company": "SIKXX LTD",
+  "repo_url": "https://github.com/ArtCode379/sikxx-play-link",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}
