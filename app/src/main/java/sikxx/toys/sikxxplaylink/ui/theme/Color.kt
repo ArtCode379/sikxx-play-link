@@ -1,11 +1,16 @@
 package sikxx.toys.sikxxplaylink.ui.theme
-
 import androidx.compose.ui.graphics.Color
-
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
-
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val Primary = Color(0xFFE85D4A)
+val Accent = Color(0xFF168C88)
+val Background = Color(0xFFFFFAF2)
+val Surface = Color(0xFFFFFFFF)
+val OnPrimary = Color(0xFFFFFFFF)
+val OnSurface = Color(0xFF2B2926)
+val Muted = Color(0xFF746F69)
+val Border = Color(0xFFE8DED2)
+val GradientStart = Color(0xFFFF806B)
+val GradientEnd = Color(0xFFE34858)
+val Success = Color(0xFF2E8B57)
+val Warning = Color(0xFFF2A93B)
+val ChipBackground = Color(0xFFFFE5DF)
+val ChipContent = Color(0xFFA83429)
